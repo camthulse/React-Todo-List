@@ -4,9 +4,9 @@ The front-end is using the React framework and Axios for the CRUD operations.<br
 The back-end is using Node and Express for the back-end CRUD operations using MySQL queries.<br>
 
 # Progress Reports
-2/15/21 - Started Project <br>
-2/18/21 - Completed basic front-end and started back-end <br>
-2/23/21 - Completed front-end and back-end and started styling <br>
+2/15/21 - Started Project 
+2/18/21 - Completed basic front-end and started back-end 
+2/23/21 - Completed front-end and back-end and started styling 
 2/25/21 - Completed project <br>
 
 # Run It Yourself
