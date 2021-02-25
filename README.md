@@ -14,3 +14,10 @@ If you'd like to try and run this React Todo List for yourself you'll need to do
 
 # The App In Use
 ![Demo App Use as GIF](https://lh5.googleusercontent.com/5Wil-ahhBuReKgJ68Hzymm6X0pIl8YsBuomsilE4AFDqBMD2MBB3c_ik2kfW6xXNI-jCaZdAx3dzbWFawmgj=w1920-h956)
+
+
+<br><br><br>
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
