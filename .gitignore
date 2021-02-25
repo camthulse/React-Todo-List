@@ -1,0 +1,11 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+
+#client files
+/client/node_modules
+/client/package-lock.json
+/client/package.json
+#server files
+/server/node_modules
+/server/package-lock.json
+/server/package.json

@@ -1,0 +1,53 @@
+.todo, .todo-wrapper{
+    width: 100%;
+    position: relative;
+    background-color: #F8F8FF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.todo-text{
+    background-color: inherit;
+    border: none;
+    border-style: none;
+    color: #000000;
+    :disabled{
+        color: #000000;
+    }
+}
+.todo-del{
+    width: 25px !important;
+    height: 25px !important;
+    color: red;
+    background: none;
+    border: none;
+    cursor: pointer;
+    &:hover{
+        color: rgb(219, 0, 0);
+    }
+}
+
+.todo-status_wrapper{
+    flex: 1;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.todo-text_wrapper{
+    flex: 3;
+    width: 100%;
+}
+
+.todo-del_wrapper{
+    flex: 1;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.checked{
+    text-decoration: line-through;
+    color: #00000067;
+}
