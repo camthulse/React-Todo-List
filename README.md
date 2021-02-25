@@ -12,5 +12,5 @@ The back-end is using Node and Express for the back-end CRUD operations using My
 # Run It Yourself
 If you'd like to try and run this React Todo List for yourself you'll need to download this repository and run 'npm start' from the client folder and also run the same 'npm start' from the server folder. You will also need some localhost server dev tool like XAMPP to emulate a MySQL database.
 
-#The App
+# The App In Use
 ![Demo App Use as GIF](https://lh5.googleusercontent.com/5Wil-ahhBuReKgJ68Hzymm6X0pIl8YsBuomsilE4AFDqBMD2MBB3c_ik2kfW6xXNI-jCaZdAx3dzbWFawmgj=w1920-h956)
